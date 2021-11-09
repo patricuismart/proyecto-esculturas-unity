@@ -16,9 +16,10 @@ ul {
 }
 
 .instructions-container {
-  width: 80%;
+  width: 60%;
 }
-ul {
+ul,
+div {
   font-size: 12px;
   line-height: 18px;
 }
